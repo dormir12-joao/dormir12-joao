@@ -1,16 +1,13 @@
-## Hi there 👋
+OLÁ,E BEM VINDOS AO MEU PERFIL
 
-<!--
-**dormir12-joao/dormir12-joao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Eduardo
 
-Here are some ideas to get you started:
+- Estou cursando o ensino médio
+- Pretendo me desenvolver em TI
+- garanto tentar ultizar este espaço para compartilhar meus
+futuros projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+VOCÊ PODE ENTRAR COMIGO EM:
+
+00001127023883sp@al.educacao.sp.gov.br
+
